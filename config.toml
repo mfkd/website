@@ -1,4 +1,4 @@
-baseURL = "https://mfkd.github.io"
+baseURL = "https://mfkd.github.io/"
 title = "Matthew Doherty"
 theme = "hugo-coder"
 languageCode = "en"
@@ -30,7 +30,7 @@ hideColorSchemeToggle = false
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/mfkd/"
+url = "https://github.com/mfkd"
 
 #[[params.social]]
 #name = "Twitter"
@@ -47,9 +47,9 @@ url = "https://www.linkedin.com/in/matthew-doherty-b11a5516b/"
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "/posts/"
