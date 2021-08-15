@@ -1,4 +1,4 @@
-baseURL = "http://www.mfkd.com"
+baseURL = "https://mfkd.github.io"
 title = "Matthew Doherty"
 theme = "hugo-coder"
 languageCode = "en"
